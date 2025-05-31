@@ -1,0 +1,1 @@
+Simple dice game which allows user to se who got the higher number.
